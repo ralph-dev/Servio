@@ -7,7 +7,7 @@ module.exports = {
   siteTitleAlt: 'Cara', // Alternative Site title for SEO
   siteTitleShort: 'Cara', // short_name for manifest
   siteHeadline: 'Creating marvelous art & blazginly fast websites', // Headline for schema.org JSONLD
-  siteUrl: 'https://cara.lekoarts.de', // Domain of your site. No trailing slash!
+  siteUrl: 'https://www.servioapp.io', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
   siteDescription: 'Playful & Colorful One-Page website with Parallax effect',
