@@ -18,6 +18,7 @@ import About from '../views/About'
 import Contact from '../views/Contact'
 
 import avatar from '../images/avatar.jpg'
+import mainImage from '../images/mainImage.jpg'
 
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
@@ -35,6 +36,12 @@ const ProjectsWrapper = styled.div`
 
 const AboutHero = styled.div`
   ${tw`flex flex-col lg:flex-row items-center mt-8`};
+`
+
+const MainImage = styled.img`
+  flex: 1;
+  width: 100%;
+  height: 100%;
 `
 
 const Avatar = styled.img`
@@ -58,7 +65,8 @@ const Footer = styled.footer`
 `
 
 const Index = () => (
-  <>
+  <MainImage src={mainImage} alt="Servio"/>
+<!--   <>
     <Layout />
     <Parallax pages={5}>
       <Hero offset={0}>
@@ -127,7 +135,7 @@ const Index = () => (
           <a href="https://www.lekoarts.de">LekoArts</a>.
         </Footer>
       </Contact>
-    </Parallax>
+    </Parallax> -->
   </>
 )
 
