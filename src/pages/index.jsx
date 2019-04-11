@@ -65,7 +65,9 @@ const Footer = styled.footer`
 `
 
 const Index = () => (
+  <div>
   <MainImage src={mainImage} alt="Servio"/>
+  </div>
 <!--   <>
     <Layout />
     <Parallax pages={5}>
