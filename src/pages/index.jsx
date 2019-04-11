@@ -18,7 +18,7 @@ import About from '../views/About'
 import Contact from '../views/Contact'
 
 import avatar from '../images/avatar.jpg'
-import mainImage from '../images/mainImage.jpg'
+import mainImage from '../images/mainImage.png'
 
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
