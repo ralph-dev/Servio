@@ -10,7 +10,7 @@ Tailwind specifically for your project. Don't be intimidated by the
 length of this file. It's really just a big JavaScript object and
 we've done our very best to explain each section.
 
-View the full documentation at https://tailwindcss.com.
+View the full documentation at https://tailwinderwfefcss.com.
 
 
 |-------------------------------------------------------------------------------
